@@ -217,7 +217,7 @@ db.client_master.insertMany(
 // ]);
 
 // db.client_master.find()
-// // db.client_master.find({}).sort({"Name"})
+// db.client_master.find({}).sort({"Name"})
 // db.client_master.find({}).sort({"Name":1}) //ascading
 // db.client_master.find({}).sort({"Name":-1})  //descading
 // db.client_master.find({"baldue":{$eq:0}})
